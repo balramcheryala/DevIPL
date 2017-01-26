@@ -1,5 +1,4 @@
-# DevIPL-  My Ipl Application Social Flow 
-	
+# DevIPL-  Ipl Application
 
 Step 1 : AppSocial Authentication Service Registry   								org.springframework.social.facebook.security.FacebookAuthenticationService@1f5b41e2
 Step 1 : AppSocial Authentication Service Registry   org.springframework.social.twitter.security.TwitterAuthenticationService@27881a2c
