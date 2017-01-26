@@ -201,7 +201,7 @@
 	</profiles>
 
 	<build>
-		<finalName>spring-security-social-login-example</finalName>
+		<finalName>iplapplication</finalName>
 		<filters>
 			<filter>profiles/${build.profile.id}/database.properties</filter>
 			<filter>profiles/${build.profile.id}/socialProviders.properties</filter>
@@ -225,4 +225,5 @@
 			</plugin>
 		</plugins>
 	</build>
+	<name>iplapplication</name>
 </project>
