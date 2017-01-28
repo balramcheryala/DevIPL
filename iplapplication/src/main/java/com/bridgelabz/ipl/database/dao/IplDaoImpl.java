@@ -28,8 +28,8 @@ public class IplDaoImpl implements IplDao {
 	// Session Importing
 	public Session session;
 
-	private static final String PLAYER_URL = "/home/bridgelabz/Desktop/iplapplication/src/main/jsonfile/IPLPlayer/";
-	private static final String TEAM_URL = "/home/bridgelabz/Desktop/iplapplication/src/main/jsonfile/IPLTeam/";
+	private static final String PLAYER_URL = "/home/balram/Downloads/Hexagon -Trainee/IPL/iplapplication/src/main/jsonfile/IPLPlayer/";
+	private static final String TEAM_URL = "/home/balram/Downloads/Hexagon -Trainee/IPL/iplapplication/src/main/jsonfile/IPLTeam/";
 
 	// Searching Technique
 
